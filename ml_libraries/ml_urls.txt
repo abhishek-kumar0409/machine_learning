@@ -1,1 +1,2 @@
 https://github.com/robertyoung2/Finding-Donors-for-CharityML/blob/master/finding_donors.ipynb
+https://www.ritchieng.com/machine-learning-project-boston-home-prices/
